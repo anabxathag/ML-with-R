@@ -1,2 +1,2 @@
 # ML-with-R
-copy code from datarockie
+code from datarockie course
